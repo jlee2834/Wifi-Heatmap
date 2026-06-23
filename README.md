@@ -222,4 +222,4 @@ Build a Flask web interface with:
 
 ## License
 
-MIT License
+Creative Commons BY-NC 4.0
